@@ -1,4 +1,4 @@
-# Brain foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity
+# Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity
 
 This work extends our [BHI paper](https://openreview.net/pdf?id=3kti62n63m), where we proposed quantitative static FC metrics to evaluate the robustness of salient features identified by deep learning models. Code for our BHI work can be found [here](https://github.com/deepank002/RE-CONFIRM/tree/5c07913f94fe11f4c02000d8b26e848c0ac52614). 
 
